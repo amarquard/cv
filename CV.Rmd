@@ -1,19 +1,22 @@
 ---
-title: "CV"
-author: "Andrea Marquard"
-date: "`r format(Sys.time(), '%b %Y')`"
-output: html_document
+output: github_document
 ---
 
+<!-- README.md is generated from README.Rmd. Please edit that file -->
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, dev ='png')
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
 library(ggplot2)
 library(RColorBrewer)
 library(wordcloud)
 library(here)
 ```
+
+<!-- badges: start -->
+<!-- badges: end -->
 
 ```{r cache=FALSE, echo=FALSE}
 knitr::read_chunk('functions.R')
