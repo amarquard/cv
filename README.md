@@ -24,35 +24,19 @@ programs</span>. <!-- Expand a little, perhaps tailored to Novo -->
 
 ### Experience
 
-<details>
+`Mar 2021 - Present` **Director, Head of Data Science & Automation**
+(Clinical Microbiomics)
 
-<summary> `Mar 2021 - Present` **Director, Head of Data Science &
-Automation** (Clinical Microbiomics) </summary>
+`Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
+Microbiomics)
 
-</details>
-
-<details>
-
-<summary> `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
-Microbiomics) </summary>
-
-</details>
-
-<details>
-
-<summary> `Jun 2019` **Freelance bioinformatics expert** (Immumap
-Services) </summary>
+`Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
   - I developed a software tool needed for analysis of NGS data from the
     dCODE platform used for detection of more than 1000 different
     antigen-specific T cells.
 
-</details>
-
-<details>
-
-<summary> `Oct 2016 - May 2019` **Postdoc** (Hadrup Lab, DTU Health
-Technology) </summary>
+`Oct 2016 - May 2019` **Postdoc** (Hadrup Lab, DTU Health Technology)
 
   - The group works on immunotherapy of cancer and autoimmune diseases
     and consists of 30 experimentalists and 2 bioinformaticians. I
@@ -71,16 +55,10 @@ Technology) </summary>
     projects, as well as setting up automated analysis where possible to
     minimize errors and workload
 
-</details>
-
-<details>
-
-<summary> `Jun 2015` **External research stay** (Ton Schumacher Lab,
-Antoni van Leeuwenhoek Hospital, Amsterdam) </summary>
+`Jun 2015` **External research stay** (Ton Schumacher Lab, Antoni van
+Leeuwenhoek Hospital, Amsterdam)
 
   - AI-based prediction of antigenic peptides for cancer immunotherapy
-
-</details>
 
 <!-- #### Education -->
 
