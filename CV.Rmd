@@ -99,25 +99,57 @@ myWordcloud(comp, brewer.pal(8, "Blues"), 6)
 
 ### Experience
 
-`2019 - ` **Bioinformatics specialist** (Clinical Microbiomics)
+<details>
+<summary>
+`Mar 2021 - Present` **Director, Head of Data Science & Automation** (Clinical Microbiomics)
+</summary>
+</details>
 
+<details>
+<summary>
+`Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical Microbiomics)
+</summary>
+</details>
 
-`2019` **Freelance bioinformatics expert** (Immumap Services)
+<details>
+<summary>
+`Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
+</summary>
 
-* I developed a software tool needed for analysis of data from the dCODE platform used for detection of more than 1000 different antigen-specific T cells. 
+* I developed a software tool needed for analysis of NGS data from the dCODE 
+  platform used for detection of more than 1000 different antigen-specific
+  T cells. 
 
-`2016 - 2019` **Postdoc** (Hadrup Lab, DTU Health Technology)
+</details>
 
-* The group works on immunotherapy of cancer and autoimmune diseases and consists of 30 experimentalists and 2 bioinformaticians. I completed the following projects:
-    1. Establish an analysis pipeline for single cell sequencing of T cells in parallel with antigen-specificity screening using DNA barcodes
-    2. Predict neoepitopes arising at novel exon-exon junctions upon aberrant mRNA splicing in disease (such as myelodysplastic syndrome)
-    3. Predicting cross-reactivity of T cells to avoid adverse effects of immunotherapy *(published)* 
+<details>
+<summary>
+`Oct 2016 - May 2019` **Postdoc** (Hadrup Lab, DTU Health Technology)
+</summary>
+
+* The group works on immunotherapy of cancer and autoimmune diseases and 
+  consists of 30 experimentalists and 2 bioinformaticians. I completed the
+  following projects:
+    1. Establish an analysis pipeline for single cell sequencing of T cells
+       in parallel with antigen-specificity screening using DNA barcodes
+    2. Predict neoepitopes arising at novel exon-exon junctions upon aberrant
+       mRNA splicing in disease (such as myelodysplastic syndrome)
+    3. Predicting cross-reactivity of T cells to avoid adverse effects of 
+       immunotherapy *(published)* 
     4. Prediction of antigenic peptides in mouse tumor models *(published)*
-* My tasks also included data analysis and visualisation for other projects, as well as setting up automated analysis where possible to minimize errors and workload
+* My tasks also included data analysis and visualisation for other projects, 
+  as well as setting up automated analysis where possible to minimize errors 
+  and workload
+  
+</details>
 
-`2015` **External research stay** (Ton Schumacher Lab, Antoni van Leeuwenhoek Hospital, Amsterdam)
+<details>
+<summary>
+`Jun 2015` **External research stay** (Ton Schumacher Lab, Antoni van Leeuwenhoek Hospital, Amsterdam)
+</summary>
 
 * AI-based prediction of antigenic peptides for cancer immunotherapy
+</details>
 
 
 <!-- #### Education -->
