@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Andrea Marquard"
-date: "Nov 2018"
+date: "`r format(Sys.time(), '%b %Y')`"
 output: html_document
 ---
 
