@@ -24,6 +24,8 @@ programs</span>. <!-- Expand a little, perhaps tailored to Novo -->
 
 ### Experience
 
+`Jun 2021 - Apr 2022` **Maternity leave** (10 months)
+
 `Mar 2021 - Present` **Director, Head of Data Science & Automation**
 (Clinical Microbiomics)
 
@@ -35,6 +37,8 @@ Microbiomics)
   - I developed a software tool needed for analysis of NGS data from the
     dCODE platform used for detection of more than 1000 different
     antigen-specific T cells.
+
+`Aug 2017 - Aug 2018` **Maternity leave** (12 months)
 
 `Oct 2016 - May 2019` **Postdoc** (Hadrup Lab, DTU Health Technology)
 
@@ -54,6 +58,8 @@ Microbiomics)
   - My tasks also included data analysis and visualisation for other
     projects, as well as setting up automated analysis where possible to
     minimize errors and workload
+
+`Jul 2015 - Apr 2016` **Maternity leave** (9 months)
 
 `Jun 2015` **External research stay** (Ton Schumacher Lab, Antoni van
 Leeuwenhoek Hospital, Amsterdam)
