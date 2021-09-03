@@ -12,41 +12,18 @@ knitr::opts_chunk$set(echo = TRUE, dev ='png')
 library(ggplot2)
 library(RColorBrewer)
 library(wordcloud)
+library(here)
 ```
 
+```{r cache=FALSE, echo=FALSE}
+knitr::read_chunk('functions.R')
+```
+
+```{r plot.bridge, echo=FALSE}
+```
 
 ```{r showbridge, echo = FALSE, fig.height=1, fig.width=4, fig.align='center'}
-plot.bridge <- function(p) {
-  
-  # x values around two pillars at position p and minus p
-  x <- seq(-2*p, 2*p, length.out = 10000)
-  
-  # Hyperbolic cosine to get the centre curve
-  y <- cosh(x)
-  
-  # Extend by repeating parts of the centre curve at the end
-  y[x < -p] <- y[x >= 0 & x <  p]
-  y[x >  p] <- y[x <= 0 & x > -p]
-  
-  df <- data.frame(x = x, y = y)
-  
-  ggplot(df, aes(x = x, y = y)) +
-    geom_line(size = 1) +
-    ylim(0.5, cosh(p)) +
-    # add road
-    geom_hline(yintercept = 1, size = 1) +
-    # add pillars
-    geom_vline(xintercept = c(-p, p), size = 1.3) +
-    # add ropes
-    geom_segment(aes(x = x, y = 1, xend = x, yend = y),
-                 data = df[round(seq(1, 10000, length.out = 61)),]) +
-    theme_void()
-}
-
-
 plot.bridge(2)
-
-
 ```
 
 
@@ -351,39 +328,6 @@ myWordcloud(comp, brewer.pal(8, "Blues"), 6)
 
 ### How I built the bridge:
 
-```{r bridge, echo = TRUE, fig.show='hide'}
-plot.bridge <- function(p) {
-  
-  # x values around two pillars at position p and minus p
-  x <- seq(-2*p, 2*p, length.out = 10000)
-  
-  # Hyperbolic cosine to get the centre curve
-  y <- cosh(x)
-  
-  # Extend by repeating parts of the centre curve at the ends
-  y[x < -p] <- y[x >= 0 & x <  p]
-  y[x >  p] <- y[x <= 0 & x > -p]
-  
-  df <- data.frame(x = x, y = y)
-  
-  ggplot(df, aes(x = x, y = y)) +
-    geom_line(size = 1) +
-    ylim(0.5, cosh(p)) +
-    
-    # add road
-    geom_hline(yintercept = 1, size = 1) +
-    
-    # add pillars
-    geom_vline(xintercept = c(-p, p), size = 1.3) +
-    
-    # add ropes
-    geom_segment(aes(x = x, y = 1, xend = x, yend = y),
-                 data = df[round(seq(1, 10000, length.out = 61)),]) +
-    
-    # remove all axes etc.
-    theme_void()
-}
-
-plot.bridge(2)
+```{r plot.bridge, eval=FALSE}
 ```
 
