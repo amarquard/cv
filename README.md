@@ -167,182 +167,24 @@ translations.*
 
 ### Publications
 
-`2019`
-
-  - Pedersen NW, Holm A, Kristensen NP, Bjerregaard AM, Bentzen AK,
-    **Marquard AM**, Tamhane T, Burgdorf KS, Ullum H, Jennum P. CD8+ T
-    cells from patients with narcolepsy and healthy controls recognize
-    hypocretin neuron-specific antigens. Nature Communications 10 (1)
-    837 <span style="color:#238B45;font-weight:bold">Immunology</span> |
-    <span style="color:#CB181D;font-weight:bold">DNA barcodes</span> |
-
-  - Bjerregaard A-M, Pedersen TK, **Marquard AM**, Hadrup SR. Prediction
-    of neoepitopes from murine sequencing data. Cancer Immunol
-    Immunother.  
-    <span style="color:#238B45;font-weight:bold">Genomics</span> |
-    <span style="color:#238B45;font-weight:bold">Immunology</span> |
-    <span style="color:#CB181D;font-weight:bold">NGS</span> |
-    <span style="color:#CB181D;font-weight:bold">Gene expression</span>
-    | <span style="color:#CB181D;font-weight:bold">Variant
-    calling</span> |
-    <span style="color:#2171B5;font-weight:bold">Bash</span> |
-    <span style="color:#2171B5;font-weight:bold">Perl</span> |
-    <span style="color:#2171B5;font-weight:bold">Multicore
-    analysis</span> |
-    <span style="color:#2171B5;font-weight:bold">Samtools</span>
-
-`2018`
-
-  - Bentzen AK, Such L, Jensen KK, **Marquard AM**, Jessen LE, Miller
-    NJ, Church CD, Lyngaa R, Koelle DM, Becker JC, Linnemann C,
-    Schumacher TNM, Marcatili P, Nghiem P, Nielsen M, Hadrup SR. T cell
-    receptor fingerprinting enables in-depth characterization of the
-    interactions governing recognition of peptide–MHC complexes. Nature
-    Biotechnology *online*.  
-    <span style="color:#238B45;font-weight:bold">Immunology</span> |
-    <span style="color:#238B45;font-weight:bold">Biochemistry</span> |
-    <span style="color:#CB181D;font-weight:bold">DNA barcodes</span> |
-    <span style="color:#CB181D;font-weight:bold">FASTQ parsing</span> |
-    <span style="color:#2171B5;font-weight:bold">RStudio</span> |
-    <span style="color:#2171B5;font-weight:bold">write R packages</span>
-    | <span style="color:#2171B5;font-weight:bold">Bash</span> |
-    <span style="color:#2171B5;font-weight:bold">Git</span>
-
-`2017`
-
-  - Maternity leave (12 months)
-
-  - Herschend J, Damholt ZBV, **Marquard AM**, Svensson B, Sørensen SJ,
-    Hägglund P, Burmølle M. A meta-proteomics approach to study the
-    interspecies interactions affecting microbial biofilm development in
-    a model community. Scientific Reports 7, 16483.  
-    <span style="color:#238B45;font-weight:bold">DNA</span> |
-    <span style="color:#CB181D;font-weight:bold">FASTA parsing</span> |
-    <span style="color:#CB181D;font-weight:bold">In silico digest</span>
-    | <span style="color:#CB181D;font-weight:bold">Proteomics</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span>
-
-  - Martinez P, Kimberley C, Birkbak NJ, **Marquard AM**, Szallasi Z,
-    Graham T. Quantification of within-sample genetic heterogeneity from
-    SNP-array data. Scientific Reports 7, 3248.  
-    <span style="color:#238B45;font-weight:bold">Genomics</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span>
-
-`2016`
-
-  - Bentzen AK, **Marquard AM**, Lyngaa R, Saini SK, Ramskov S, Donia M,
-    Such L, Furness AJS, McGranahan N, Rosenthal R, Straten PT, Szallasi
-    Z, Svane IM, Swanton C, Quezada SA, Jakobsen SN, Eklund AC, Hadrup
-    SR. Large-scale detection of antigen-specific T cells using
-    peptide-MHC-I multimers labeled with DNA barcodes. Nature
-    Biotechnology 34, 1037-1045.  
-    <span style="color:#238B45;font-weight:bold">DNA</span> |
-    <span style="color:#238B45;font-weight:bold">Immunology</span> |
-    <span style="color:#238B45;font-weight:bold">Cancer</span> |
-    <span style="color:#CB181D;font-weight:bold">DNA barcoding</span> |
-    <span style="color:#CB181D;font-weight:bold">FASTQ parsing</span> |
-    <span style="color:#CB181D;font-weight:bold">Alignment</span> |
-    <span style="color:#2171B5;font-weight:bold">Perl</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span> |
-    <span style="color:#2171B5;font-weight:bold">Git</span> |
-    <span style="color:#2171B5;font-weight:bold">Multicore
-    analysis</span> |
-    <span style="color:#2171B5;font-weight:bold">Samtools</span> |
-    <span style="color:#2171B5;font-weight:bold">Bowtie2</span>
-
-`2015`
-
-  - Maternity leave (9 months)
-
-  - **Marquard AM**, Birkbak NJ, Thomas CE, Favero F, Krzystanek M,
-    Lefebvre C, Ferté C, Jamal-Hanjani M, Wilson GA, Shafi S, Swanton C,
-    André F, Szallasi Z, Eklund AC. TumorTracer: a method to identify
-    the tissue of origin from the somatic mutations of a tumor specimen.
-    BMC Medical Genomics 1–13.  
-    <span style="color:#238B45;font-weight:bold">Cancer</span> |
-    <span style="color:#238B45;font-weight:bold">Molecular
-    biology</span> |
-    <span style="color:#238B45;font-weight:bold">Genomics</span> |
-    <span style="color:#CB181D;font-weight:bold">Machine learning</span>
-    | <span style="color:#2171B5;font-weight:bold">Perl</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span> |
-    <span style="color:#2171B5;font-weight:bold">write R packages</span>
-    | <span style="color:#2171B5;font-weight:bold">Git</span> |
-    <span style="color:#2171B5;font-weight:bold">Multicore
-    analysis</span>
-
-  - **Marquard AM**, Eklund AC, Joshi T, Krzystanek M, Favero F, Wang
-    ZC, Richardson AL, Silver DP, Szallasi Z, Birkbak NJ. Pan-cancer
-    analysis of genomic scar signatures associated with homologous
-    recombination deficiency suggests novel indications for existing
-    cancer drugs. Biomark Res 3, 9.  
-    <span style="color:#238B45;font-weight:bold">Cancer</span> |
-    <span style="color:#238B45;font-weight:bold">DNA</span> |
-    <span style="color:#238B45;font-weight:bold">Molecular
-    biology</span> |
-    <span style="color:#238B45;font-weight:bold">Genomics</span> |
-    <span style="color:#CB181D;font-weight:bold">Array data</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span> |
-    <span style="color:#2171B5;font-weight:bold">Bash</span> |
-    <span style="color:#2171B5;font-weight:bold">Multicore
-    analysis</span>
-
-`2014`
-
-  - Favero F, Joshi T, **Marquard AM**, Birkbak NJ, Krzystanek M, Li Q,
-    Szallasi Z, Eklund AC. Sequenza: allele-specific copy number and
-    mutation profiles from tumor sequencing data. Annals of Oncology 26
-    (1), 64-70.  
-    <span style="color:#238B45;font-weight:bold">Cancer</span> |
-    <span style="color:#238B45;font-weight:bold">DNA</span> |
-    <span style="color:#238B45;font-weight:bold">Genomics</span> |
-    <span style="color:#CB181D;font-weight:bold">NGS</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span> |
-    <span style="color:#2171B5;font-weight:bold">write R packages</span>
-    | <span style="color:#2171B5;font-weight:bold">Git</span>
-
-`2013`
-
-  - Berger SS, Turner L, Wang CW, Petersen JEV, Kraft M, Lusingu JPA,
-    Mmbando B, **Marquard AM**, Bengtsson DBAC, Hviid L, Nielsen MA,
-    Theander TG, Lavstsen T. Plasmodium falciparum expressing domain
-    cassette 5 type PfEMP1 (DC5-PfEMP1) bind PECAM1. PLoS ONE 8,
-    e69117.  
-    <span style="color:#238B45;font-weight:bold">Cells</span> |
-    <span style="color:#238B45;font-weight:bold">Molecular
-    biology</span> |
-    <span style="color:#238B45;font-weight:bold">Disease</span> |
-    <span style="color:#238B45;font-weight:bold">Immunology</span>
-
-`2012`
-
-  - Lavstsen T, Turner L, Saguti F, Magistrado P, Rask TS, Jespersen JS,
-    Wang CW, Berger SS, Baraka V, **Marquard AM**, Seguin-Orlando A,
-    Willerslev E, Gilbert MTP, Lusingu J, Theander TG. Plasmodium
-    falciparum erythrocyte membrane protein 1 domain cassettes 8 and 13
-    are associated with severe malaria in children. Proc. Natl. Acad.
-    Sci. U.S.A. 109, E1791–800.  
-    <span style="color:#238B45;font-weight:bold">Cells</span> |
-    <span style="color:#238B45;font-weight:bold">Molecular
-    biology</span> |
-    <span style="color:#238B45;font-weight:bold">Disease</span> |
-    <span style="color:#238B45;font-weight:bold">Immunology</span> |
-    <span style="color:#2171B5;font-weight:bold">R</span>
-
-  - Wang CW, Lavstsen T, Bengtsson DC, Magistrado PA, Berger SS,
-    **Marquard AM**, Alifrangis M, Lusingu JP, Theander TG, Turner L.
-    Evidence for in vitro and in vivo expression of the conserved VAR3
-    (type 3) plasmodium falciparum erythrocyte membrane protein 1.
-    Malar. J. 11, 129.  
-    <span style="color:#238B45;font-weight:bold">Cells</span> |
-    <span style="color:#238B45;font-weight:bold">Molecular
-    biology</span> |
-    <span style="color:#238B45;font-weight:bold">Disease</span> |
-    <span style="color:#238B45;font-weight:bold">Immunology</span>
-
-<P style="page-break-before: always">
-
------
+| title                                                                                                                                                   | author                                                                  | journal                                         | number                | cites | year |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------- | :---------------------------------------------- | :-------------------- | ----: | ---: |
+| Evidence for in vitro and in vivo expression of the conserved VAR3 (type 3) Plasmodium falciparum erythrocyte membrane protein 1                        | CW Wang, T Lavstsen, DC Bengtsson, PA Magistrado, SS Berger, …          | Malaria journal                                 | 11 (1), 1-11          |    28 | 2012 |
+| Plasmodium falciparum erythrocyte membrane protein 1 domain cassettes 8 and 13 are associated with severe malaria in children                           | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   257 | 2012 |
+| Plasmodium falciparum expressing domain cassette 5 type PfEMP1 (DC5-PfEMP1) bind PECAM1                                                                 | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    57 | 2013 |
+| TumorTracer: a method to identify the tissue of origin from the somatic mutations of a tumor specimen                                                   | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    42 | 2015 |
+| Pan-cancer analysis of genomic scar signatures associated with homologous recombination deficiency suggests novel indications for existing cancer drugs | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   119 | 2015 |
+| Sequenza: allele-specific copy number and mutation profiles from tumor sequencing data                                                                  | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   366 | 2015 |
+| Method for identification of tissue or organ localization of a tumour                                                                                   | **AM Marquard**, AC Eklund, NJ Birkbak, ZI Szallasi                     |                                                 |                       |     6 | 2016 |
+| Method for identification of tissue or organ localization of a tumour                                                                                   | **AM Marquard**, AC Eklund, NJ Birkbak, ZI Szallasi                     |                                                 |                       |     6 | 2016 |
+| Large-scale detection of antigen-specific T cells using peptide-MHC-I multimers labeled with DNA barcodes                                               | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   196 | 2016 |
+| Quantification of within-sample genetic heterogeneity from SNP-array data                                                                               | P Martinez, C Kimberley, NJ BirkBak, A Marquard, Z Szallasi, TA Graham  | Scientific reports                              | 7 (1), 1-12           |     4 | 2017 |
+| A meta-proteomics approach to study the interspecies interactions affecting microbial biofilm development in a model community                          | J Herschend, ZBV Damholt, **AM Marquard**, B Svensson, SJ Sørensen, …   | Scientific reports                              | 7 (1), 1-13           |    28 | 2017 |
+| T cell receptor fingerprinting enables in-depth characterization of the interactions governing recognition of peptide–MHC complexes                     | AK Bentzen, L Such, KK Jensen, **AM Marquard**, LE Jessen, NJ Miller, … | Nature biotechnology                            | 36 (12), 1191-1196    |    60 | 2018 |
+| Prediction of neoepitopes from murine sequencing data                                                                                                   | AM Bjerregaard, TK Pedersen, **AM Marquard**, SR Hadrup                 | Cancer Immunology, Immunotherapy                | 68 (1), 159-161       |     3 | 2019 |
+| CD8+ T cells from patients with narcolepsy and healthy controls recognize hypocretin neuron-specific antigens                                           | NW Pedersen, A Holm, NP Kristensen, AM Bjerregaard, AK Bentzen, …       | Nature communications                           | 10 (1), 1-12          |    47 | 2019 |
+| Human endogenous retroviruses form a reservoir of T cell targets in hematological cancers                                                               | SK Saini, AD Ørskov, AM Bjerregaard, A Unnikrishnan, …                  | Nature communications                           | 11 (1), 1-14          |     8 | 2020 |
+| Tumor-infiltrating T cells from clear cell renal cell carcinoma patients recognize neoepitopes derived from point and frameshift mutations              | UK Hansen, S Ramskov, AM Bjerregaard, A Borch, R Andersen, A Draghi, …  | Frontiers in immunology                         | 11, 373               |     8 | 2020 |
 
 ### How I built the bridge:
 
