@@ -16,6 +16,7 @@ library(here)
 library(scholar)
 library(magrittr)
 library(dplyr)
+
 ```
 
 <!-- badges: start -->
@@ -56,6 +57,8 @@ word_cloud(comp, brewer.pal(8, "Blues"), 6)
 `Mar 2021 - Present` **Director, Head of Data Science & Automation** (Clinical Microbiomics)
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical Microbiomics)
+
+* 
 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 

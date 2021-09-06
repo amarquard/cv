@@ -32,6 +32,7 @@ programs</span>. <!-- Expand a little, perhaps tailored to Novo -->
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
 Microbiomics)
 
+  - 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
   - I developed a software tool needed for analysis of NGS data from the
