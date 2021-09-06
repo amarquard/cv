@@ -13,8 +13,15 @@ jobs:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
-      - name: Install rmarkdown
+      - name: Install packages
         run: Rscript -e 'install.packages("rmarkdown")'
+        run: Rscript -e 'install.packages("ggplot2")'
+        run: Rscript -e 'install.packages("RColorBrewer")'
+        run: Rscript -e 'install.packages("wordcloud")'
+        run: Rscript -e 'install.packages("here")'
+        run: Rscript -e 'install.packages("scholar")'
+        run: Rscript -e 'install.packages("magrittr")'
+        run: Rscript -e 'install.packages("dplyr")'
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results
