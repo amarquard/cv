@@ -20,7 +20,7 @@ and I can make sense of the data using these
 <span style="color:#2171B5;font-weight:bold;font-size:larger">computer
 programs</span>. <!-- Expand a little, perhaps tailored to Novo -->
 
-<img src="README_files/figure-gfm/wordcloud-1.png" style="display: block; margin: auto;" />
+<img src="README_files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
 
 ### Experience
 
@@ -173,8 +173,8 @@ translations.*
 | Plasmodium falciparum erythrocyte membrane protein 1 domain cassettes 8 and 13 are associated with severe malaria in children                           | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   257 | 2012 |
 | Plasmodium falciparum expressing domain cassette 5 type PfEMP1 (DC5-PfEMP1) bind PECAM1                                                                 | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    57 | 2013 |
 | TumorTracer: a method to identify the tissue of origin from the somatic mutations of a tumor specimen                                                   | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    42 | 2015 |
-| Pan-cancer analysis of genomic scar signatures associated with homologous recombination deficiency suggests novel indications for existing cancer drugs | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   119 | 2015 |
-| Sequenza: allele-specific copy number and mutation profiles from tumor sequencing data                                                                  | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   366 | 2015 |
+| Pan-cancer analysis of genomic scar signatures associated with homologous recombination deficiency suggests novel indications for existing cancer drugs | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   120 | 2015 |
+| Sequenza: allele-specific copy number and mutation profiles from tumor sequencing data                                                                  | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   368 | 2015 |
 | Method for identification of tissue or organ localization of a tumour                                                                                   | **AM Marquard**, AC Eklund, NJ Birkbak, ZI Szallasi                     |                                                 |                       |     6 | 2016 |
 | Method for identification of tissue or organ localization of a tumour                                                                                   | **AM Marquard**, AC Eklund, NJ Birkbak, ZI Szallasi                     |                                                 |                       |     6 | 2016 |
 | Large-scale detection of antigen-specific T cells using peptide-MHC-I multimers labeled with DNA barcodes                                               | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   196 | 2016 |

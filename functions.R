@@ -41,3 +41,12 @@ plot.bridge <- function(p) {
     # remove all axes etc.
     theme_void()
 }
+
+## ---- word.cloud
+myWordcloud <- function(x, cols, seed = 42) {
+  set.seed(seed) # 3, 5
+  wordcloud(names(x), x/sum(x), min.freq =0.01, scale=c(4, .3), random.order = FALSE, random.color = FALSE, colors= cols,
+            rot.per = 0,
+            # fixed.asp = FALSE,
+            use.r.layout = FALSE, xpd = NA) 
+}
