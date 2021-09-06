@@ -25,11 +25,11 @@ library(dplyr)
 knitr::read_chunk('functions.R')
 ```
 
-```{r plot.bridge, echo=FALSE}
+```{r plot_bridge, echo=FALSE}
 ```
 
 ```{r showbridge, echo = FALSE, fig.height=1, fig.width=4, fig.align='center'}
-plot.bridge(2)
+plot_bridge(2)
 ```
 
 
@@ -37,15 +37,15 @@ plot.bridge(2)
 I build bridges between wet-lab scientists and bioinformaticians. I've spent >5 years on either side of the divide and I therefore speak both lab-talk and code-lingo. Below is an overview of what I do: I understand this <span style="color:#238B45;font-weight:bold;font-size:larger">biology</span>, I can study it with these <span style="color:#CB181D;font-weight:bold;font-size:larger">technologies</span>, and I can make sense of the data using these <span style="color:#2171B5;font-weight:bold;font-size:larger">computer programs</span>.
 <!-- Expand a little, perhaps tailored to Novo -->
 
-```{r word.cloud, echo=FALSE}
+```{r word_cloud, echo=FALSE}
 ```
 
 ```{r echo = FALSE, fig.height = 3, fig.width = 7, fig.asp = .33, fig.align='center'}
 source(here("words-for-clouds.R"))
 par(mfrow=c(1,3))
-myWordcloud(bio, brewer.pal(8, "Greens"), 11)
-myWordcloud(tech, brewer.pal(8, "Reds"), 12)
-myWordcloud(comp, brewer.pal(8, "Blues"), 6)
+word_cloud(bio, brewer.pal(8, "Greens"), 11)
+word_cloud(tech, brewer.pal(8, "Reds"), 12)
+word_cloud(comp, brewer.pal(8, "Blues"), 6)
 ```
 
 
@@ -189,6 +189,6 @@ pubs %>%
 
 ### How I built the bridge:
 
-```{r plot.bridge, eval=FALSE}
+```{r plot_bridge, eval=FALSE}
 ```
 

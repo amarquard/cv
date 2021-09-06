@@ -1,4 +1,4 @@
-## ---- plot.bridge
+## ---- plot_bridge
 
 #' Plot a bridge using cosine function and ggplot lines and segments
 #'
@@ -8,9 +8,9 @@
 #' @export
 #'
 #' @examples
-#' plot.bridge(2)
+#' plot_bridge(2)
 #' 
-plot.bridge <- function(p) {
+plot_bridge <- function(p) {
   
   # x values around two pillars at position p and minus p
   x <- seq(-2*p, 2*p, length.out = 10000)
@@ -42,8 +42,8 @@ plot.bridge <- function(p) {
     theme_void()
 }
 
-## ---- word.cloud
-myWordcloud <- function(x, cols, seed = 42) {
+## ---- word_cloud
+word_cloud <- function(x, cols, seed = 42) {
   set.seed(seed) # 3, 5
   wordcloud(names(x), x/sum(x), min.freq =0.01, scale=c(4, .3), random.order = FALSE, random.color = FALSE, colors= cols,
             rot.per = 0,

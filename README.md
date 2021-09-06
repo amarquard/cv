@@ -197,9 +197,9 @@ translations.*
 #' @export
 #'
 #' @examples
-#' plot.bridge(2)
+#' plot_bridge(2)
 #' 
-plot.bridge <- function(p) {
+plot_bridge <- function(p) {
   
   # x values around two pillars at position p and minus p
   x <- seq(-2*p, 2*p, length.out = 10000)
