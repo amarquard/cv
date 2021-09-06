@@ -16,7 +16,6 @@ library(here)
 library(scholar)
 library(magrittr)
 library(dplyr)
-
 ```
 
 <!-- badges: start -->
