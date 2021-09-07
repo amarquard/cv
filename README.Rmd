@@ -40,17 +40,12 @@ plot_bridge(2)
 
 ## A passion for building bridges between people and their data
 
-My passion is optimisation and automation 🤖 of data analysis workflows 🎡
+I have an eye for optimisation and automation of data analysis workflows, and I believe in the power of giving people meaningful access to their data. This means creating interactive data dashboards, and automating reporting by creating eg. Word/Excel/Powerpoint products directly from R.
+To bring these solutions to life I use R package development, R markdown, Shiny ✨, tidyverse 🧹, unit testing, github actions and bash where needed.
 
-My tools include R 💙, bash, perl 👾
+I want to make life easier for both the data scientist as well as the people who own the data.
 
-My R world includes R package development 📦, R markdown, Shiny ✨, tidyverse 🧹, unit testing
-
-My strong suit is communicating with non-data people, through interactive data dashboards 📊 🖥 and automated reporting by creating Word/Excel/Powerpoint 📑 🎥 📈 directly from R
-
-My workflow includes git version control 🐙 and continuous integration (CI)
-
-My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠, infectious diseases 😷
+[scroll to the bottom to see how the bridge above was built]
 
 ### Experience
 
