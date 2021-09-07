@@ -42,14 +42,6 @@ plot_bridge <- function(p) {
     theme_void()
 }
 
-## ---- word_cloud
-word_cloud <- function(x, cols, seed = 42) {
-  set.seed(seed) # 3, 5
-  wordcloud(names(x), x/sum(x), min.freq =0.01, scale=c(4, .3), random.order = FALSE, random.color = FALSE, colors= cols,
-            rot.per = 0,
-            # fixed.asp = FALSE,
-            use.r.layout = FALSE, xpd = NA) 
-}
 
 ## ---- make_scholar_link
 make_scholar_link <- function(pubid, authorid) {
