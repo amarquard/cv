@@ -164,7 +164,7 @@ format_myself <- function(x, me) {
 }
 
 pubs %>%
-  filter(cites > 0) %>%
+  filter(cites > 0 & journal != "") %>%
   mutate(author = format_myself(author, "AM Marquard")) %>% 
   select(-cid, -pubid) %>%
   arrange(year, cites) %>%
