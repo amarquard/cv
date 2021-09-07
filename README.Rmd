@@ -43,6 +43,7 @@ I build bridges between wet-lab scientists and bioinformaticians. I've spent >5 
 `Jun 2021 - Apr 2022` **Maternity leave** (10 months)
 
 `Mar 2021 - Present` **Director, Head of Data Science & Automation** (Clinical Microbiomics)
+
 * I am leading efforts to automate and scale the data analysis operations
 * Managing a team of student assistants
 
