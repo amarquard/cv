@@ -54,33 +54,35 @@ word_cloud(comp, brewer.pal(8, "Blues"), 6)
 `Jun 2021 - Apr 2022` **Maternity leave** (10 months)
 
 `Mar 2021 - Present` **Director, Head of Data Science & Automation** (Clinical Microbiomics)
+* I am leading efforts to automate and scale the data analysis operations
+* Managing a team of student assistants
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical Microbiomics)
 
-* 
+* Analysed microbiome data and reported results to clients
+* Identified a need for better code sharing, automation and reproducibility
+* Independently initiated and led development of:
+  - an internal R package to track and maintain analysis code
+  - an internal R package to automate generation of reports
+  - code testing during CI, and branch protection
+  - Shiny dashboards for clients to interact with their data and statistical analyses
 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
-* I developed a software tool needed for analysis of NGS data from the dCODE 
-  platform used for detection of more than 1000 different antigen-specific
-  T cells. 
+* I developed a software tool with a Shiny interface to be used by lab staff. The tool analyses NGS data from the dCODE platform, a single-cell approach to detect >1000 antigen specificities of T cells in blood samples. 
 
 `Aug 2017 - Aug 2018` **Maternity leave** (12 months)
 
-`Oct 2016 - May 2019` **Postdoc** (Hadrup Lab, DTU Health Technology)
+`Oct 2016 - May 2019` **Postdoc** (T-cells and Cancer lab, DTU Health Technology)
 
-* The group works on immunotherapy of cancer and autoimmune diseases and 
-  consists of 30 experimentalists and 2 bioinformaticians. I completed the
-  following projects:
-    1. Establish an analysis pipeline for single cell sequencing of T cells
-       in parallel with antigen-specificity screening using DNA barcodes
-    2. Predict neoepitopes arising at novel exon-exon junctions upon aberrant
-       mRNA splicing in disease (such as myelodysplastic syndrome)
-    3. Predicting cross-reactivity of T cells to avoid adverse effects of 
+* Major accomplishments:
+    - Create data analysis pipeline for single cell sequencing of T cells in parallel with antigen-specificity screening using DNA barcodes
+    - Create pipeline to predict neoepitopes arising at novel exon-exon junctions upon aberrant mRNA splicing in disease
+    - R package for predicting cross-reactivity of T cells to avoid adverse effects of 
        immunotherapy *(published)* 
-    4. Prediction of antigenic peptides in mouse tumor models *(published)*
-* My tasks also included data analysis and visualisation for other projects, 
-  as well as setting up automated analysis where possible to minimize errors 
+    - Shiny dashboard for point-and-click ggplot-powered visualisation of high-throughput data (to replace Graph Pad Prism)
+* I supported the research team with ad hoc data analysis and visualisation
+* I setup automated analysis where possible to minimize human errors 
   and workload
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
@@ -123,10 +125,7 @@ word_cloud(comp, brewer.pal(8, "Blues"), 6)
 * Title: Therapeutic applications of the cancer genome. Incl. 3 published papers:
     1. I used machine learning to trace the organ source of cancer cells via DNA analyses
     2. I measured patterns of mutations in >5000 cancer patients, to reveal vulnerability to certain types of chemotherapy
-    3. I made a user-friendly program for analysing sequencing results of a novel screening method using DNA barcodes
-* Courses include:
-    + perl and unix | biological sequence analysis
-    + tumor biology |  computational network biology
+    3. I made a user-friendly tool for analysing sequencing results of a novel screening method using DNA barcodes (available [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
 
   
 `2012` **Machine Learning course** (by Stanford Uni at Coursera.org)  
@@ -135,23 +134,7 @@ word_cloud(comp, brewer.pal(8, "Blues"), 6)
 
 `2006 - 2012` **BSc and MSc in Molecular Biomedicine** (Uni. of Copenhagen)
 
-* 2 yrs in malaria lab for MSc thesis, including hands-on: cell cultures, FACS, ELISA, qPCR, Biacore
-* FELASA-C laboratory animal science certificate
-* Courses include:
-    + molecular and cell biology | cell signaling | pathology
-    + protein- and biochemistry | immunology | physiology
-    + genetics | statistics | bioinformatics
-
 `2006` **Study abroad** (University of New South Wales, Australia)
-
-* I studied biology, mathematics and databases, and was active in student societies.
-
-
-### Workstyle
-
-* I am structured in my work and have an attention for detail
-* I would never assemble IKEA furniture without reading the manual thoroughly, and I therefore get it right the first time
-* I am creative and innovative. This resume was made with R Markdown, and includes a hyperbolic cosine graph to look like a bridge
 
 
 ### Volunteering & student jobs
