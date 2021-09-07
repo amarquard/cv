@@ -66,8 +66,8 @@ I build bridges between wet-lab scientists and bioinformaticians. I've spent >5 
 `Oct 2016 - May 2019` **Postdoc** (T-cells and Cancer lab, DTU Health Technology)
 
 * Major accomplishments:
-    - Create data analysis pipeline for single cell sequencing of T cells in parallel with antigen-specificity screening using DNA barcodes
-    - Create pipeline to predict neoepitopes arising at novel exon-exon junctions upon aberrant mRNA splicing in disease
+    - data analysis pipeline for single cell sequencing of T cells with antigen-specificity screening using DNA barcodes
+    - pipeline to predict neoepitopes arising at novel exon-exon junctions upon aberrant mRNA splicing in disease
     - R package for predicting cross-reactivity of T cells to avoid adverse effects of 
        immunotherapy *(published)* 
     - Shiny dashboard for point-and-click ggplot-powered visualisation of high-throughput data (to replace Graph Pad Prism)
@@ -141,7 +141,7 @@ I build bridges between wet-lab scientists and bioinformaticians. I've spent >5 
 
 ### Publications
 
-```{r make_scholar_link, echo=FALSE}
+```{r scholar_functions, echo=FALSE}
 ```
 
 ```{r, echo = FALSE}

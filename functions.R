@@ -43,7 +43,7 @@ plot_bridge <- function(p) {
 }
 
 
-## ---- make_scholar_link
+## ---- scholar_functions
 make_scholar_link <- function(pubid, authorid) {
   glue(
     paste0(
@@ -55,3 +55,12 @@ make_scholar_link <- function(pubid, authorid) {
     )
   )
 }
+
+apply_bold <- function(x) {
+  paste0("**", x, "**")
+}
+
+format_myself <- function(x, me) {
+  stringr::str_replace_all(x, me, apply_bold(me))
+}
+
