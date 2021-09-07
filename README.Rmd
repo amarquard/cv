@@ -38,13 +38,18 @@ plot_bridge(2)
 <!-- ## Passionate about optimising how humans work with data -->
 <!-- ## Passionate about bridging the gap between humans and their data -->
 
-## Passionate builder of bridges between people and their data. 
+## A passion for building bridges between people and their data
 
 My passion is optimisation and automation 🤖 of data analysis workflows 🎡
+
 My tools include R 💙, bash, perl 👾
+
 My R world includes R package development 📦, R markdown, Shiny ✨, tidyverse 🧹, unit testing
+
 My strong suit is communicating with non-data people, through interactive data dashboards 📊 🖥 and automated reporting by creating Word/Excel/Powerpoint 📑 🎥 📈 directly from R
+
 My workflow includes git version control 🐙 and continuous integration (CI)
+
 My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠, infectious diseases 😷
 
 ### Experience
@@ -62,8 +67,8 @@ My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠, i
 * Analysed microbiome data and reported results to clients
 * Identified a need for better code sharing, automation and reproducibility
 * Independently initiated and led development of:
-  - an internal R package to track and maintain analysis code
-  - an internal R package to automate generation of reports
+  - internal R package to track and maintain analysis code
+  - internal R package to automate generation of reports
   - code testing during CI, and branch protection
   - Shiny dashboards for clients to interact with their data and statistical analyses
 
@@ -82,15 +87,13 @@ My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠, i
     - R package for predicting cross-reactivity of T cells to avoid adverse effects of 
        immunotherapy *(published)* 
     - Shiny dashboard for point-and-click ggplot-powered visualisation of high-throughput data (to replace Graph Pad Prism)
-* I supported the research team with ad hoc data analysis and visualisation
-* I setup automated analysis where possible to minimize human errors 
+* I supported the research team with *ad hoc* data analysis and visualisation
+* I set up automated analyses where possible to minimize human errors 
   and workload
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
   
 `Jun 2015` **External research stay** (Ton Schumacher Lab, Antoni van Leeuwenhoek Hospital, Amsterdam)
-
-* AI-based prediction of antigenic peptides for cancer immunotherapy
 
 
 ### Awards
@@ -106,7 +109,7 @@ My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠, i
     screening method using DNA barcodes
     (available [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
   * R package that uses machine learning to trace the organ source of cancer 
-    cells via DNA analyses
+    cells via DNA analyses (interface available [here](https://services.healthtech.dtu.dk/service.php?TumorTracer-1.1))
   * Infer patterns of mutations from genomic data in >5000 cancer patients, to
     reveal vulnerability to certain types of chemotherapy
   
@@ -151,7 +154,7 @@ pubs %>%
 ```
 
 
-### How I built the bridge:
+### How I built the bridge
 
 ```{r plot_bridge, eval=FALSE}
 ```
