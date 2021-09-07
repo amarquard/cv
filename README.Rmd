@@ -16,6 +16,8 @@ library(here)
 library(scholar)
 library(magrittr)
 library(dplyr)
+library(glue)
+library(stringr)
 ```
 
 <!-- badges: start -->
@@ -151,6 +153,9 @@ word_cloud(comp, brewer.pal(8, "Blues"), 6)
 
 ### Publications
 
+```{r make_scholar_link, echo=FALSE}
+```
+
 ```{r, echo = FALSE}
 id <- "UFlhrz0AAAAJ"
 pubs <- scholar::get_publications(id)
@@ -166,8 +171,11 @@ format_myself <- function(x, me) {
 pubs %>%
   filter(cites > 0 & journal != "") %>%
   mutate(author = format_myself(author, "AM Marquard")) %>% 
-  select(-cid, -pubid) %>%
-  arrange(year, cites) %>%
+  mutate(link = make_scholar_link(pubid, .env$id)) %>% 
+  mutate(title = str_trunc(title, 50)) %>% 
+  mutate(title = glue("[{title}]({link})")) %>% 
+  select(-cid, -pubid, -link) %>%
+  arrange(desc(year), desc(cites)) %>%
   knitr::kable()
 ```
 

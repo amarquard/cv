@@ -50,3 +50,16 @@ word_cloud <- function(x, cols, seed = 42) {
             # fixed.asp = FALSE,
             use.r.layout = FALSE, xpd = NA) 
 }
+
+## ---- make_scholar_link
+make_scholar_link <- function(pubid, authorid) {
+  glue(
+    paste0(
+      "https://scholar.google.com/citations?",
+      "view_op=view_citation&",
+      "hl=da&",
+      "user={authorid}&",
+      "citation_for_view={authorid}:{pubid}"
+    )
+  )
+}
