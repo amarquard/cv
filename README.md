@@ -11,24 +11,18 @@
 
 I build bridges between wet-lab scientists and bioinformaticians. I’ve
 spent \>5 years on either side of the divide and I therefore speak both
-lab-talk and code-lingo. Below is an overview of what I do: I understand
-this
-<span style="color:#238B45;font-weight:bold;font-size:larger">biology</span>,
-I can study it with these
-<span style="color:#CB181D;font-weight:bold;font-size:larger">technologies</span>,
-and I can make sense of the data using these
-<span style="color:#2171B5;font-weight:bold;font-size:larger">computer
-programs</span>. <!-- Expand a little, perhaps tailored to Novo -->
-
-<img src="README_files/figure-gfm/unnamed-chunk-3-1.png" style="display: block; margin: auto;" />
+lab-talk and code-lingo.
 
 ### Experience
 
 `Jun 2021 - Apr 2022` **Maternity leave** (10 months)
 
 `Mar 2021 - Present` **Director, Head of Data Science & Automation**
-(Clinical Microbiomics) \* I am leading efforts to automate and scale
-the data analysis operations \* Managing a team of student assistants
+(Clinical Microbiomics)
+
+  - I am leading efforts to automate and scale the data analysis
+    operations
+  - Managing a team of student assistants
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
 Microbiomics)
