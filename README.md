@@ -7,11 +7,20 @@
 
 <img src="README_files/figure-gfm/showbridge-1.png" style="display: block; margin: auto;" />
 
-## The biologist who learnt to code
+<!-- ## Passionate about optimising how humans work with data -->
 
-I build bridges between wet-lab scientists and bioinformaticians. I’ve
-spent \>5 years on either side of the divide and I therefore speak both
-lab-talk and code-lingo.
+<!-- ## Passionate about bridging the gap between humans and their data -->
+
+## Passionate builder of bridges between people and their data.
+
+My passion is optimisation and automation 🤖 of data analysis workflows 🎡
+My tools include R 💙, bash, perl 👾 My R world includes R package
+development 📦, R markdown, Shiny ✨, tidyverse 🧹, unit testing My strong
+suit is communicating with non-data people, through interactive data
+dashboards 📊 🖥 and automated reporting by creating Word/Excel/Powerpoint
+📑 🎥 📈 directly from R My workflow includes git version control 🐙 and
+continuous integration (CI) My domain knowledge includes immunotherapy
+🧫, cancer 💊, microbiome 🦠, infectious diseases 😷
 
 ### Experience
 
@@ -20,8 +29,8 @@ lab-talk and code-lingo.
 `Mar 2021 - Present` **Director, Head of Data Science & Automation**
 (Clinical Microbiomics)
 
-  - I am leading efforts to automate and scale the data analysis
-    operations
+  - Leading efforts to automate and scale the data analysis operations
+  - Lead developer of internal R packages and Shiny dashboards
   - Managing a team of student assistants
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
@@ -39,10 +48,11 @@ Microbiomics)
 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
-  - I developed a software tool with a Shiny interface to be used by lab
-    staff. The tool analyses NGS data from the dCODE platform, a
-    single-cell approach to detect \>1000 antigen specificities of T
-    cells in blood samples.
+  - Developed a software tool with a Shiny interface to be used by lab
+    staff
+      - The tool analyses NGS data from the dCODE platform, a
+        single-cell approach to detect \>1000 antigen specificities of T
+        cells in blood samples.
 
 `Aug 2017 - Aug 2018` **Maternity leave** (12 months)
 
@@ -50,11 +60,10 @@ Microbiomics)
 Technology)
 
   - Major accomplishments:
-      - Create data analysis pipeline for single cell sequencing of T
-        cells in parallel with antigen-specificity screening using DNA
-        barcodes
-      - Create pipeline to predict neoepitopes arising at novel
-        exon-exon junctions upon aberrant mRNA splicing in disease
+      - data analysis pipeline for single cell sequencing of T cells
+        with antigen-specificity screening using DNA barcodes
+      - pipeline to predict neoepitopes arising at novel exon-exon
+        junctions upon aberrant mRNA splicing in disease
       - R package for predicting cross-reactivity of T cells to avoid
         adverse effects of immunotherapy *(published)*
       - Shiny dashboard for point-and-click ggplot-powered visualisation
@@ -71,38 +80,6 @@ Leeuwenhoek Hospital, Amsterdam)
 
   - AI-based prediction of antigenic peptides for cancer immunotherapy
 
-<!-- #### Education -->
-
-<!-- * `2012 - 2016`  PhD in Cancer Genomics group, DTU Bioinformatics -->
-
-<!--     + *Title: Therapeutic applications of the cancer genome* -->
-
-<!--     + *I used machine learning to trace the organ source of cancer cells via DNA analyses [Marquard et al, BMC Medical Genomics 2015]* -->
-
-<!--     + *I measured patterns of mutations in >5000 cancer patients, to reveal vulnerability to certain types of chemotherapy [Marquard et al, Biomarker Research 2015]* -->
-
-<!--     + *I made a user-friendly program for analysing sequencing results of a novel screening method using DNA barcodes [Bentzen et al, Nature Biotehcnology 2016]* -->
-
-<!--     + *courses include: perl and unix for bioinformaticians, tumor biology, systems biology* -->
-
-<!-- * `2012` Machine Learning course by Andrew Ng at Stanford Uni (on Coursera.org)   -->
-
-<!--     + *completed all exercises and tests* -->
-
-<!--     + *implemented (from scratch) a neural network with backpropagation to image-recognition of hand-written digits* -->
-
-<!-- * `2006 - 2012` BSc and MSc in Molecular Biomedicine, Uni. of Copenhagen -->
-
-<!--     + *2 yrs lab-work for Master thesis in malaria lab* -->
-
-<!--     + *Hands-on experience with: cell cultures, FACS, ELISA, qPCR, Biacore * -->
-
-<!--     + *FELASA-C animal certificate* -->
-
-<!--     + *courses include: molecular and cell biology, genetics, pathology, biochemistry, statistics, cell signaling, immunology* -->
-
-<!-- * `2006` Study abroad at University of New South Wales, Australia -->
-
 ### Awards
 
 `2017` Recipient of DTU’s Young Researcher Award
@@ -111,20 +88,15 @@ Leeuwenhoek Hospital, Amsterdam)
 
 `2012 - 2016` **PhD in Cancer Genomics** (DTU Bioinformatics)
 
-  - Title: Therapeutic applications of the cancer genome. Incl. 3
-    published papers:
-    1.  I used machine learning to trace the organ source of cancer
-        cells via DNA analyses
-    2.  I measured patterns of mutations in \>5000 cancer patients, to
-        reveal vulnerability to certain types of chemotherapy
-    3.  I made a user-friendly tool for analysing sequencing results of
-        a novel screening method using DNA barcodes (available
-        [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
+  - Developed a user-friendly tool for analysing sequencing results of a
+    novel screening method using DNA barcodes (available
+    [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
+  - R package that uses machine learning to trace the organ source of
+    cancer cells via DNA analyses
+  - Infer patterns of mutations from genomic data in \>5000 cancer
+    patients, to reveal vulnerability to certain types of chemotherapy
 
 `2012` **Machine Learning course** (by Stanford Uni at Coursera.org)
-
-  - implemented (from scratch) a neural network with backpropagation for
-    image-recognition of hand-written digits
 
 `2006 - 2012` **BSc and MSc in Molecular Biomedicine** (Uni. of
 Copenhagen)
