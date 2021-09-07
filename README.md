@@ -11,16 +11,24 @@
 
 <!-- ## Passionate about bridging the gap between humans and their data -->
 
-## Passionate builder of bridges between people and their data.
+## A passion for building bridges between people and their data
 
 My passion is optimisation and automation 🤖 of data analysis workflows 🎡
-My tools include R 💙, bash, perl 👾 My R world includes R package
-development 📦, R markdown, Shiny ✨, tidyverse 🧹, unit testing My strong
-suit is communicating with non-data people, through interactive data
-dashboards 📊 🖥 and automated reporting by creating Word/Excel/Powerpoint
-📑 🎥 📈 directly from R My workflow includes git version control 🐙 and
-continuous integration (CI) My domain knowledge includes immunotherapy
-🧫, cancer 💊, microbiome 🦠, infectious diseases 😷
+
+My tools include R 💙, bash, perl 👾
+
+My R world includes R package development 📦, R markdown, Shiny ✨,
+tidyverse 🧹, unit testing
+
+My strong suit is communicating with non-data people, through
+interactive data dashboards 📊 🖥 and automated reporting by creating
+Word/Excel/Powerpoint 📑 🎥 📈 directly from R
+
+My workflow includes git version control 🐙 and continuous integration
+(CI)
+
+My domain knowledge includes immunotherapy 🧫, cancer 💊, microbiome 🦠,
+infectious diseases 😷
 
 ### Experience
 
@@ -40,8 +48,8 @@ Microbiomics)
   - Identified a need for better code sharing, automation and
     reproducibility
   - Independently initiated and led development of:
-      - an internal R package to track and maintain analysis code
-      - an internal R package to automate generation of reports
+      - internal R package to track and maintain analysis code
+      - internal R package to automate generation of reports
       - code testing during CI, and branch protection
       - Shiny dashboards for clients to interact with their data and
         statistical analyses
@@ -68,17 +76,15 @@ Technology)
         adverse effects of immunotherapy *(published)*
       - Shiny dashboard for point-and-click ggplot-powered visualisation
         of high-throughput data (to replace Graph Pad Prism)
-  - I supported the research team with ad hoc data analysis and
+  - I supported the research team with *ad hoc* data analysis and
     visualisation
-  - I setup automated analysis where possible to minimize human errors
+  - I set up automated analyses where possible to minimize human errors
     and workload
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
 
 `Jun 2015` **External research stay** (Ton Schumacher Lab, Antoni van
 Leeuwenhoek Hospital, Amsterdam)
-
-  - AI-based prediction of antigenic peptides for cancer immunotherapy
 
 ### Awards
 
@@ -92,7 +98,8 @@ Leeuwenhoek Hospital, Amsterdam)
     novel screening method using DNA barcodes (available
     [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
   - R package that uses machine learning to trace the organ source of
-    cancer cells via DNA analyses
+    cancer cells via DNA analyses (interface available
+    [here](https://services.healthtech.dtu.dk/service.php?TumorTracer-1.1))
   - Infer patterns of mutations from genomic data in \>5000 cancer
     patients, to reveal vulnerability to certain types of chemotherapy
 
@@ -140,7 +147,7 @@ translations.*
 | [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   258 | 2012 |
 | [Evidence for in vitro and in vivo expression of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Y0pCki6q_DkC) | CW Wang, T Lavstsen, DC Bengtsson, PA Magistrado, SS Berger, …          | Malaria journal                                 | 11 (1), 1-11          |    28 | 2012 |
 
-### How I built the bridge:
+### How I built the bridge
 
 ``` r
 #' Plot a bridge using cosine function and ggplot lines and segments
