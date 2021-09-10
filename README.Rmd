@@ -62,32 +62,30 @@ I want to make life easier for both the data scientist as well as the people who
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical Microbiomics)
 
-* Analysed microbiome data and reported results to clients
+* Statistical analysis of microbiome data, and reporting results to clients
 * Identified a need for better code sharing, automation and reproducibility
-* Independently initiated and led development of:
+* Initiated and led development of:
   - internal R package to track and maintain analysis code
   - internal R package to automate generation of reports
   - code testing during CI, and branch protection
-  - Shiny dashboards for clients to interact with their data and statistical analyses
+  - Shiny dashboards for clients to interact with their data
 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
-* Developed a software tool with a Shiny interface to be used by lab staff
-  - The tool analyses NGS data from the dCODE platform, a single-cell approach to detect >1000 antigen specificities of T cells in blood samples. 
+* Developed an NGS software tool with a Shiny interface to be used by lab staff
 
 `Aug 2017 - Aug 2018` **Maternity leave** (12 months)
 
 `Oct 2016 - May 2019` **Postdoc** (T-cells and Cancer lab, DTU Health Technology)
 
 * Major accomplishments:
-    - data analysis pipeline for single cell sequencing of T cells with antigen-specificity screening using DNA barcodes
-    - pipeline to predict neoepitopes arising at novel exon-exon junctions upon aberrant mRNA splicing in disease
-    - R package for predicting cross-reactivity of T cells to avoid adverse effects of 
-       immunotherapy *(published)* 
-    - Shiny dashboard for point-and-click ggplot-powered visualisation of high-throughput data (to replace Graph Pad Prism)
-* I supported the research team with *ad hoc* data analysis and visualisation
-* I set up automated analyses where possible to minimize human errors 
-  and workload
+    - data analysis pipeline for single cell sequencing of T cells
+    - custom analysis pipelines for synthetic DNA barcodes *(published)*
+    - pipeline to predict neoepitopes at exon-exon junctions in aberrant mRNA splicing
+    - R package for predicting cross-reactivity of T-cells for immunotherapy *(published)*
+    - Shiny dashboard for ggplot2-powered visualisation of high-throughput data
+* *Ad hoc* data analysis and visualisation
+* Set up of automated analyses to minimize human errors and workload
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
   
