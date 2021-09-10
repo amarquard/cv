@@ -15,11 +15,15 @@
 
 I have an eye for optimisation and automation of data analysis
 workflows, and I believe in the power of giving people meaningful access
-to their data. This means creating interactive data dashboards, and
-automating reporting by creating eg. Word/Excel/Powerpoint products
-directly from R. To bring these solutions to life I use R package
-development, R markdown, Shiny ✨, tidyverse 🧹, unit testing, github
-actions and bash where needed.
+to their data.
+
+This means creating interactive data dashboards, and automating
+reporting by creating eg. Word/Excel/Powerpoint products directly from
+R.
+
+To bring these solutions to life I use R package development, R
+markdown, Shiny tidyverse, unit testing, github actions and bash where
+needed.
 
 I want to make life easier for both the data scientist as well as the
 people who own the data.
