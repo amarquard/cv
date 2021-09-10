@@ -28,11 +28,11 @@ needed.
 I want to make life easier for both the data scientist as well as the
 people who own the data.
 
-\[scroll to the bottom to see how the bridge above was built\]
+*\[scroll to the bottom to see how the bridge above was built\]*
 
 ### Experience
 
-`Jun 2021 - Apr 2022` **Maternity leave** (10 months)
+`Jun 2021 - Mar 2022` **Maternity leave** (9 months)
 
 `Mar 2021 - Present` **Director, Head of Data Science & Automation**
 (Clinical Microbiomics)
@@ -64,18 +64,15 @@ Microbiomics)
 `Oct 2016 - May 2019` **Postdoc** (T-cells and Cancer lab, DTU Health
 Technology)
 
-  - Major accomplishments:
-      - data analysis pipeline for single cell sequencing of T cells
-      - custom analysis pipelines for synthetic DNA barcodes
-        *(published)*
-      - pipeline to predict neoepitopes at exon-exon junctions in
-        aberrant mRNA splicing
-      - R package for predicting cross-reactivity of T-cells for
-        immunotherapy *(published)*
-      - Shiny dashboard for ggplot2-powered visualisation of
-        high-throughput data
-  - *Ad hoc* data analysis and visualisation
-  - Set up of automated analyses to minimize human errors and workload
+  - Data analysis pipeline for single cell sequencing of T cells
+  - Custom analysis pipelines for synthetic DNA barcodes
+  - Pipeline to predict neoepitopes at exon-exon junctions in aberrant
+    mRNA splicing
+  - R package for predicting cross-reactivity of T-cells for
+    immunotherapy
+  - Shiny dashboard for ggplot2-powered visualisation of high-throughput
+    data (available
+    [here](https://marquard.shinyapps.io/barracoda-viz/))
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
 
@@ -90,14 +87,14 @@ Leeuwenhoek Hospital, Amsterdam)
 
 `2012 - 2016` **PhD in Cancer Genomics** (DTU Bioinformatics)
 
-  - Developed a user-friendly tool for analysing sequencing results of a
-    novel screening method using DNA barcodes (available
+  - Developed a tool for analysing sequencing results of a novel
+    screening method using DNA barcodes (available
     [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
   - R package that uses machine learning to trace the organ source of
-    cancer cells via DNA analyses (interface available
+    cancer cells from genomic data (interface available
     [here](https://services.healthtech.dtu.dk/service.php?TumorTracer-1.1))
   - Infer patterns of mutations from genomic data in \>5000 cancer
-    patients, to reveal vulnerability to certain types of chemotherapy
+    patients, to reveal vulnerability to chemotherapy
 
 `2012` **Machine Learning course** (by Stanford Uni at Coursera.org)
 
