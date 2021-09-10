@@ -44,23 +44,20 @@ people who own the data.
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
 Microbiomics)
 
-  - Analysed microbiome data and reported results to clients
+  - Statistical analysis of microbiome data, and reporting results to
+    clients
   - Identified a need for better code sharing, automation and
     reproducibility
-  - Independently initiated and led development of:
+  - Initiated and led development of:
       - internal R package to track and maintain analysis code
       - internal R package to automate generation of reports
       - code testing during CI, and branch protection
-      - Shiny dashboards for clients to interact with their data and
-        statistical analyses
+      - Shiny dashboards for clients to interact with their data
 
 `Jun 2019` **Freelance bioinformatics expert** (Immumap Services)
 
-  - Developed a software tool with a Shiny interface to be used by lab
-    staff
-      - The tool analyses NGS data from the dCODE platform, a
-        single-cell approach to detect \>1000 antigen specificities of T
-        cells in blood samples.
+  - Developed an NGS software tool with a Shiny interface to be used by
+    lab staff
 
 `Aug 2017 - Aug 2018` **Maternity leave** (12 months)
 
@@ -69,17 +66,16 @@ Technology)
 
   - Major accomplishments:
       - data analysis pipeline for single cell sequencing of T cells
-        with antigen-specificity screening using DNA barcodes
-      - pipeline to predict neoepitopes arising at novel exon-exon
-        junctions upon aberrant mRNA splicing in disease
-      - R package for predicting cross-reactivity of T cells to avoid
-        adverse effects of immunotherapy *(published)*
-      - Shiny dashboard for point-and-click ggplot-powered visualisation
-        of high-throughput data (to replace Graph Pad Prism)
-  - I supported the research team with *ad hoc* data analysis and
-    visualisation
-  - I set up automated analyses where possible to minimize human errors
-    and workload
+      - custom analysis pipelines for synthetic DNA barcodes
+        *(published)*
+      - pipeline to predict neoepitopes at exon-exon junctions in
+        aberrant mRNA splicing
+      - R package for predicting cross-reactivity of T-cells for
+        immunotherapy *(published)*
+      - Shiny dashboard for ggplot2-powered visualisation of
+        high-throughput data
+  - *Ad hoc* data analysis and visualisation
+  - Set up of automated analyses to minimize human errors and workload
 
 `Jul 2015 - Apr 2016` **Maternity leave** (9 months)
 
@@ -139,9 +135,9 @@ translations.*
 | [T cell receptor fingerprinting enables in-depth…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:roLk4NBRz8UC) | AK Bentzen, L Such, KK Jensen, **AM Marquard**, LE Jessen, NJ Miller, … | Nature biotechnology                            | 36 (12), 1191-1196    |    60 | 2018 |
 | [A meta-proteomics approach to study the intersp…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:eQOLeE2rZwMC) | J Herschend, ZBV Damholt, **AM Marquard**, B Svensson, SJ Sørensen, …   | Scientific reports                              | 7 (1), 1-13           |    28 | 2017 |
 | [Quantification of within-sample genetic heterog…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:IjCSPb-OGe4C) | P Martinez, C Kimberley, NJ BirkBak, A Marquard, Z Szallasi, TA Graham  | Scientific reports                              | 7 (1), 1-12           |     4 | 2017 |
-| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   198 | 2016 |
+| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   197 | 2016 |
 | [Sequenza: allele-specific copy number and mutat…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u5HHmVD_uO8C) | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   368 | 2015 |
-| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   120 | 2015 |
+| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   121 | 2015 |
 | [TumorTracer: a method to identify the tissue of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:9yKSN-GCB0IC) | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    42 | 2015 |
 | [Plasmodium falciparum expressing domain cassett…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Tyk-4Ss8FVUC) | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    57 | 2013 |
 | [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   258 | 2012 |
