@@ -87,14 +87,14 @@ Leeuwenhoek Hospital, Amsterdam)
 
 `2012 - 2016` **PhD in Cancer Genomics** (DTU Bioinformatics)
 
-  - Developed a tool for analysing sequencing results of a novel
-    screening method using DNA barcodes (available
+  - A tool for analysing NGS data from a novel screening method using
+    DNA barcodes (available
     [here](https://services.healthtech.dtu.dk/service.php?Barracoda-1.8))
-  - R package that uses machine learning to trace the organ source of
-    cancer cells from genomic data (interface available
+  - R package for machine learning-based tracing of tissue source of
+    cancer cells (interface available
     [here](https://services.healthtech.dtu.dk/service.php?TumorTracer-1.1))
-  - Infer patterns of mutations from genomic data in \>5000 cancer
-    patients, to reveal vulnerability to chemotherapy
+  - Mutation patterns in genomic data from \>5000 cancer patients reveal
+    vulnerability to chemotherapy
 
 `2012` **Machine Learning course** (by Stanford Uni at Coursera.org)
 
