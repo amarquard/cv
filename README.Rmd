@@ -130,15 +130,21 @@ I want to make life easier for both the data scientist as well as the people who
 ```
 
 ```{r, echo = FALSE}
+# My unique google scholar id
 id <- "UFlhrz0AAAAJ"
+
 pubs <- scholar::get_publications(id)
 
 pubs %>%
+  # Removing conference abstracts (no citations) and patent applications (no journal)
   filter(cites > 0 & journal != "") %>%
-  mutate(author = format_myself(author, "AM Marquard")) %>% 
-  mutate(link = make_scholar_link(pubid, .env$id)) %>% 
-  mutate(title = str_trunc(title, 50)) %>% 
-  mutate(title = glue("[{title}]({link})")) %>% 
+  mutate(
+    # Format my name in bold
+    author = format_myself(author, "AM Marquard"),
+    # Create a link to paper in google scholar, and add to the title
+    link = make_scholar_link(pubid, .env$id),
+    title = str_trunc(title, 50),
+    title = glue("[{title}]({link})")) %>% 
   select(-cid, -pubid, -link) %>%
   arrange(desc(year), desc(cites)) %>%
   knitr::kable()
