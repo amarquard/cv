@@ -40,6 +40,11 @@ plot_bridge(2)
 
 ## A passion for building bridges between people and their data
 
+- Andrea Marion Marquard
+- 23 Feb 1986
+- Copenhagen, Denmark
+
+
 I have an eye for optimisation and automation of data analysis workflows, and I believe in the power of giving people meaningful access to their data.
 
 This means creating interactive data dashboards, and automating reporting by creating eg. Word/Excel/Powerpoint products directly from R.

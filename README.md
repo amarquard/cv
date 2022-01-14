@@ -13,6 +13,10 @@
 
 ## A passion for building bridges between people and their data
 
+  - Andrea Marion Marquard
+  - 23 Feb 1986
+  - Copenhagen, Denmark
+
 I have an eye for optimisation and automation of data analysis
 workflows, and I believe in the power of giving people meaningful access
 to their data.
@@ -125,19 +129,19 @@ translations.*
 
 | title                                                                                                                                                                              | author                                                                  | journal                                         | number                | cites | year |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :---------------------------------------------- | :-------------------- | ----: | ---: |
-| [Human endogenous retroviruses form a reservoir …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:MXK_kJrjxJIC) | SK Saini, AD Ørskov, AM Bjerregaard, A Unnikrishnan, …                  | Nature communications                           | 11 (1), 1-14          |     8 | 2020 |
-| [Tumor-infiltrating T cells from clear cell rena…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:0EnyYjriUFMC) | UK Hansen, S Ramskov, AM Bjerregaard, A Borch, R Andersen, A Draghi, …  | Frontiers in immunology                         | 11, 373               |     8 | 2020 |
-| [CD8+ T cells from patients with narcolepsy and …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:UebtZRa9Y70C) | NW Pedersen, A Holm, NP Kristensen, AM Bjerregaard, AK Bentzen, …       | Nature communications                           | 10 (1), 1-12          |    47 | 2019 |
+| [Human endogenous retroviruses form a reservoir …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:MXK_kJrjxJIC) | SK Saini, AD Ørskov, AM Bjerregaard, A Unnikrishnan, …                  | Nature communications                           | 11 (1), 1-14          |    16 | 2020 |
+| [Tumor-infiltrating T cells from clear cell rena…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:0EnyYjriUFMC) | UK Hansen, S Ramskov, AM Bjerregaard, A Borch, R Andersen, A Draghi, …  | Frontiers in immunology                         | 11, 373               |    11 | 2020 |
+| [CD8+ T cells from patients with narcolepsy and …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:UebtZRa9Y70C) | NW Pedersen, A Holm, NP Kristensen, AM Bjerregaard, AK Bentzen, …       | Nature communications                           | 10 (1), 1-12          |    53 | 2019 |
 | [Prediction of neoepitopes from murine sequencin…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:LkGwnXOMwfcC) | AM Bjerregaard, TK Pedersen, **AM Marquard**, SR Hadrup                 | Cancer Immunology, Immunotherapy                | 68 (1), 159-161       |     3 | 2019 |
-| [T cell receptor fingerprinting enables in-depth…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:roLk4NBRz8UC) | AK Bentzen, L Such, KK Jensen, **AM Marquard**, LE Jessen, NJ Miller, … | Nature biotechnology                            | 36 (12), 1191-1196    |    60 | 2018 |
-| [A meta-proteomics approach to study the intersp…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:eQOLeE2rZwMC) | J Herschend, ZBV Damholt, **AM Marquard**, B Svensson, SJ Sørensen, …   | Scientific reports                              | 7 (1), 1-13           |    28 | 2017 |
+| [T cell receptor fingerprinting enables in-depth…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:roLk4NBRz8UC) | AK Bentzen, L Such, KK Jensen, **AM Marquard**, LE Jessen, NJ Miller, … | Nature biotechnology                            | 36 (12), 1191-1196    |    67 | 2018 |
+| [A meta-proteomics approach to study the intersp…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:eQOLeE2rZwMC) | J Herschend, ZBV Damholt, **AM Marquard**, B Svensson, SJ Sørensen, …   | Scientific reports                              | 7 (1), 1-13           |    33 | 2017 |
 | [Quantification of within-sample genetic heterog…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:IjCSPb-OGe4C) | P Martinez, C Kimberley, NJ BirkBak, A Marquard, Z Szallasi, TA Graham  | Scientific reports                              | 7 (1), 1-12           |     4 | 2017 |
-| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   197 | 2016 |
-| [Sequenza: allele-specific copy number and mutat…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u5HHmVD_uO8C) | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   368 | 2015 |
-| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   121 | 2015 |
-| [TumorTracer: a method to identify the tissue of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:9yKSN-GCB0IC) | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    42 | 2015 |
-| [Plasmodium falciparum expressing domain cassett…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Tyk-4Ss8FVUC) | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    57 | 2013 |
-| [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   258 | 2012 |
+| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   212 | 2016 |
+| [Sequenza: allele-specific copy number and mutat…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u5HHmVD_uO8C) | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   396 | 2015 |
+| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   137 | 2015 |
+| [TumorTracer: a method to identify the tissue of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:9yKSN-GCB0IC) | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    45 | 2015 |
+| [Plasmodium falciparum expressing domain cassett…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Tyk-4Ss8FVUC) | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    59 | 2013 |
+| [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   264 | 2012 |
 | [Evidence for in vitro and in vivo expression of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Y0pCki6q_DkC) | CW Wang, T Lavstsen, DC Bengtsson, PA Magistrado, SS Berger, …          | Malaria journal                                 | 11 (1), 1-11          |    28 | 2012 |
 
 ### How I built the bridge
@@ -145,41 +149,48 @@ translations.*
 ``` r
 #' Plot a bridge using cosine function and ggplot lines and segments
 #'
-#' @param p the x-axis value at which to plot the pillars (at p and -p) in the graph coordinates
-#'
+#' @param pillars_at_x the x-axis value at which to plot the pillars
+#' (at `c(-pillars_at_x, pillars_at_x)`) in the graph coordinates
+#' @param n_ropes the number of vertical ropes to show 
+#' @param n_x the number of x values used to plot the curves (higher value
+#' gives smoother curve)
+#' 
 #' @return a ggplot object
 #' @export
 #'
 #' @examples
 #' plot_bridge(2)
 #' 
-plot_bridge <- function(p) {
+plot_bridge <- function(pillars_at_x, n_ropes = 61, n_x = 10000) {
   
-  # x values around two pillars at position p and minus p
-  x <- seq(-2*p, 2*p, length.out = 10000)
+  ropes_at_x <- seq(1, n_x, length.out = n_ropes) %>% round()
   
-  # Hyperbolic cosine to get the centre curve
-  y <- cosh(x)
+  bridge_coords <- tibble::tibble(
+    # x values around two pillars at position p and minus p
+    x = seq(-2 * pillars_at_x, 2 * pillars_at_x, length.out = n_x),
+    # Hyperbolic cosine to get the centre curve
+    y = cosh(x)
+  ) %>%
+    # Extend by repeating parts of the center curve at the ends
+    mutate(y = case_when(x < -pillars_at_x ~ lead(y, n_x / 2),
+                         x > pillars_at_x ~ lag(y, n_x / 2),
+                         TRUE ~ y)
+    ) 
   
-  # Extend by repeating parts of the centre curve at the ends
-  y[x < -p] <- y[x >= 0 & x <  p]
-  y[x >  p] <- y[x <= 0 & x > -p]
-  
-  df <- data.frame(x = x, y = y)
-  
-  ggplot(df, aes(x = x, y = y)) +
+  bridge_coords %>%
+    ggplot(aes(x = x, y = y)) +
     geom_line(size = 1) +
-    ylim(0.5, cosh(p)) +
+    ylim(0.5, cosh(pillars_at_x)) +
     
     # add road
     geom_hline(yintercept = 1, size = 1) +
     
     # add pillars
-    geom_vline(xintercept = c(-p, p), size = 1.3) +
+    geom_vline(xintercept = c(-pillars_at_x, pillars_at_x), size = 1.3) +
     
     # add ropes
     geom_segment(aes(x = x, y = 1, xend = x, yend = y),
-                 data = df[round(seq(1, 10000, length.out = 61)),]) +
+                 data = ~ .x[ropes_at_x, ]) +
     
     # remove all axes etc.
     theme_void()
