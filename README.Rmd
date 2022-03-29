@@ -45,13 +45,16 @@ plot_bridge(2)
 - Copenhagen, Denmark
 
 
-I have an eye for optimisation and automation of data analysis workflows, and I believe in the power of giving people meaningful access to their data.
+I have an eye for optimisation and automation of data analysis workflows, and I believe in the power of giving people meaningful and hassle-free access to their data.
 
 This means creating interactive data dashboards, and automating reporting by creating eg. Word/Excel/Powerpoint products directly from R.
 
-To bring these solutions to life I use R package development, R markdown, Shiny tidyverse, unit testing, github actions and bash where needed.
+To bring these solutions to life I use R package development, R markdown, Shiny, tidyverse, unit testing, github actions for CI/CD and bash where needed.
 
 I want to make life easier for both the data scientist as well as the people who own the data.
+
+This CV is automatically rendered from an R markdown file whenever there is a new commit to the repo. Check out the [source code](README.Rmd).
+
 
 *[scroll to the bottom to see how the bridge above was built]*
 
@@ -130,6 +133,9 @@ I want to make life easier for both the data scientist as well as the people who
 
 
 ### Publications
+
+This list of publications is always up to date, because it is automatically generated through a direct call to Google Scholar. Check out the [source code](README.Rmd).
+ 
 
 ```{r scholar_functions, echo=FALSE}
 ```
