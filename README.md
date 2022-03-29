@@ -18,21 +18,26 @@
   - Copenhagen, Denmark
 
 I have an eye for optimisation and automation of data analysis
-workflows, and I believe in the power of giving people meaningful access
-to their data.
+workflows, and I believe in the power of giving people meaningful and
+hassle-free access to their data.
 
 This means creating interactive data dashboards, and automating
 reporting by creating eg. Word/Excel/Powerpoint products directly from
 R.
 
 To bring these solutions to life I use R package development, R
-markdown, Shiny tidyverse, unit testing, github actions and bash where
-needed.
+markdown, Shiny, tidyverse, unit testing, github actions for CI/CD and
+bash where needed.
 
 I want to make life easier for both the data scientist as well as the
 people who own the data.
 
-*\[scroll to the bottom to see how the bridge above was built\]*
+About this CV: - it lives at: <https://github.com/amarquard/cv> - it is
+automatically rendered from an R markdown file whenever there is a new
+commit to the repo. Check out the [source code](README.Rmd) - the
+publications list always up to date. It is created by a direct call to
+Google Scholar - scroll to the bottom to see how the bridge above was
+built
 
 ### Experience
 
@@ -129,20 +134,21 @@ translations.*
 
 | title                                                                                                                                                                              | author                                                                  | journal                                         | number                | cites | year |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------- | :---------------------------------------------- | :-------------------- | ----: | ---: |
-| [Human endogenous retroviruses form a reservoir …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:MXK_kJrjxJIC) | SK Saini, AD Ørskov, AM Bjerregaard, A Unnikrishnan, …                  | Nature communications                           | 11 (1), 1-14          |    16 | 2020 |
+| [Neoantigen-reactive CD8+ T cells affect clinica…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:KlAtU1dfN6UC) | NP Kristensen, C Heeke, SA Tvingsholm, A Borch, A Draghi, …             | The Journal of clinical investigation           | 132 (2)               |     1 | 2022 |
+| [Human endogenous retroviruses form a reservoir …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:MXK_kJrjxJIC) | SK Saini, AD Ørskov, AM Bjerregaard, A Unnikrishnan, …                  | Nature communications                           | 11 (1), 1-14          |    18 | 2020 |
 | [Tumor-infiltrating T cells from clear cell rena…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:0EnyYjriUFMC) | UK Hansen, S Ramskov, AM Bjerregaard, A Borch, R Andersen, A Draghi, …  | Frontiers in immunology                         | 11, 373               |    11 | 2020 |
-| [CD8+ T cells from patients with narcolepsy and …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:UebtZRa9Y70C) | NW Pedersen, A Holm, NP Kristensen, AM Bjerregaard, AK Bentzen, …       | Nature communications                           | 10 (1), 1-12          |    53 | 2019 |
+| [CD8+ T cells from patients with narcolepsy and …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:UebtZRa9Y70C) | NW Pedersen, A Holm, NP Kristensen, AM Bjerregaard, AK Bentzen, …       | Nature communications                           | 10 (1), 1-12          |    58 | 2019 |
 | [Prediction of neoepitopes from murine sequencin…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:LkGwnXOMwfcC) | AM Bjerregaard, TK Pedersen, **AM Marquard**, SR Hadrup                 | Cancer Immunology, Immunotherapy                | 68 (1), 159-161       |     3 | 2019 |
 | [T cell receptor fingerprinting enables in-depth…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:roLk4NBRz8UC) | AK Bentzen, L Such, KK Jensen, **AM Marquard**, LE Jessen, NJ Miller, … | Nature biotechnology                            | 36 (12), 1191-1196    |    67 | 2018 |
 | [A meta-proteomics approach to study the intersp…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:eQOLeE2rZwMC) | J Herschend, ZBV Damholt, **AM Marquard**, B Svensson, SJ Sørensen, …   | Scientific reports                              | 7 (1), 1-13           |    33 | 2017 |
 | [Quantification of within-sample genetic heterog…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:IjCSPb-OGe4C) | P Martinez, C Kimberley, NJ BirkBak, A Marquard, Z Szallasi, TA Graham  | Scientific reports                              | 7 (1), 1-12           |     4 | 2017 |
-| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   212 | 2016 |
-| [Sequenza: allele-specific copy number and mutat…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u5HHmVD_uO8C) | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   396 | 2015 |
-| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   137 | 2015 |
-| [TumorTracer: a method to identify the tissue of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:9yKSN-GCB0IC) | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    45 | 2015 |
-| [Plasmodium falciparum expressing domain cassett…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Tyk-4Ss8FVUC) | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    59 | 2013 |
-| [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   264 | 2012 |
-| [Evidence for in vitro and in vivo expression of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Y0pCki6q_DkC) | CW Wang, T Lavstsen, DC Bengtsson, PA Magistrado, SS Berger, …          | Malaria journal                                 | 11 (1), 1-11          |    28 | 2012 |
+| [Large-scale detection of antigen-specific T cel…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:qjMakFHDy7sC) | AK Bentzen, **AM Marquard**, R Lyngaa, SK Saini, S Ramskov, M Donia, …  | Nature biotechnology                            | 34 (10), 1037-1045    |   221 | 2016 |
+| [Sequenza: allele-specific copy number and mutat…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u5HHmVD_uO8C) | F Favero, T Joshi, **AM Marquard**, NJ Birkbak, M Krzystanek, Q Li, …   | Annals of Oncology                              | 26 (1), 64-70         |   408 | 2015 |
+| [Pan-cancer analysis of genomic scar signatures …](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:u-x6o8ySG0sC) | **AM Marquard**, AC Eklund, T Joshi, M Krzystanek, F Favero, ZC Wang, … | Biomarker research                              | 3 (1), 1-10           |   143 | 2015 |
+| [TumorTracer: a method to identify the tissue of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:9yKSN-GCB0IC) | **AM Marquard**, NJ Birkbak, CE Thomas, F Favero, M Krzystanek, …       | BMC medical genomics                            | 8 (1), 1-13           |    47 | 2015 |
+| [Plasmodium falciparum expressing domain cassett…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Tyk-4Ss8FVUC) | SS Berger, L Turner, CW Wang, JEV Petersen, M Kraft, JPA Lusingu, …     | PloS one                                        | 8 (7), e69117         |    61 | 2013 |
+| [Plasmodium falciparum erythrocyte membrane prot…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:zYLM7Y9cAGgC) | T Lavstsen, L Turner, F Saguti, P Magistrado, TS Rask, JS Jespersen, …  | Proceedings of the National Academy of Sciences | 109 (26), E1791-E1800 |   268 | 2012 |
+| [Evidence for in vitro and in vivo expression of…](https://scholar.google.com/citations?view_op=view_citation&hl=da&user=UFlhrz0AAAAJ&citation_for_view=UFlhrz0AAAAJ:Y0pCki6q_DkC) | CW Wang, T Lavstsen, DC Bengtsson, PA Magistrado, SS Berger, …          | Malaria journal                                 | 11 (1), 1-11          |    29 | 2012 |
 
 ### How I built the bridge
 
