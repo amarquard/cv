@@ -44,7 +44,6 @@ plot_bridge(2)
 - 23 Feb 1986
 - Copenhagen, Denmark
 
-
 I have an eye for optimisation and automation of data analysis workflows, and I believe in the power of giving people meaningful and hassle-free access to their data.
 
 This means creating interactive data dashboards, and automating reporting by creating eg. Word/Excel/Powerpoint products directly from R.
@@ -53,10 +52,11 @@ To bring these solutions to life I use R package development, R markdown, Shiny,
 
 I want to make life easier for both the data scientist as well as the people who own the data.
 
-This CV is automatically rendered from an R markdown file whenever there is a new commit to the repo. Check out the [source code](README.Rmd).
-
-
-*[scroll to the bottom to see how the bridge above was built]*
+About this CV:
+- it lives at: https://github.com/amarquard/cv
+- it is automatically rendered from an R markdown file whenever there is a new commit to the repo. Check out the [source code](README.Rmd)
+- the publications list always up to date. It is created by a direct call to Google Scholar
+- scroll to the bottom to see how the bridge above was built
 
 ### Experience
 
@@ -133,8 +133,6 @@ This CV is automatically rendered from an R markdown file whenever there is a ne
 
 
 ### Publications
-
-This list of publications is always up to date, because it is automatically generated through a direct call to Google Scholar. Check out the [source code](README.Rmd).
  
 
 ```{r scholar_functions, echo=FALSE}
