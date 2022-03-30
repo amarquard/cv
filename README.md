@@ -32,12 +32,14 @@ bash where needed.
 I want to make life easier for both the data scientist as well as the
 people who own the data.
 
-About this CV: - it lives at: <https://github.com/amarquard/cv> - it is
-automatically rendered from an R markdown file whenever there is a new
-commit to the repo. Check out the [source code](README.Rmd) - the
-publications list always up to date. It is created by a direct call to
-Google Scholar - scroll to the bottom to see how the bridge above was
-built
+About this CV:
+
+  - it lives at: <https://github.com/amarquard/cv>
+  - it is automatically rendered from an R markdown file whenever there
+    is a new commit to the repo. Check out the [source code](README.Rmd)
+  - the publications list always up to date. It is created by a direct
+    call to Google Scholar
+  - scroll to the bottom to see how the bridge above was built
 
 ### Experience
 
