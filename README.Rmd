@@ -54,7 +54,7 @@ I want to make life easier for both the data scientist as well as the people who
 
 About this CV:
 
-- it lives at: https://github.com/amarquard/cv
+- it lives at https://github.com/amarquard/cv and is best viewed there
 - it is automatically rendered from an R markdown file whenever there is a new commit to the repo. Check out the [source code](README.Rmd)
 - the publications list always up to date. It is created by a direct call to Google Scholar
 - scroll to the bottom to see how the bridge above was built
@@ -152,6 +152,7 @@ pubs %>%
   mutate(
     # Format my name in bold
     author = format_myself(author, "AM Marquard"),
+    author = format_myself(author, "A Marquard"),
     # Create a link to paper in google scholar, and add to the title
     link = make_scholar_link(pubid, .env$id),
     title = str_trunc(title, 50),
