@@ -50,6 +50,7 @@ About this CV:
 
   - Leading efforts to automate and scale the data analysis operations
   - Lead developer of internal R packages and Shiny dashboards
+  - Validation of code for regulatory compliance
   - Managing a team of student assistants
 
 `Aug 2019 - Mar 2021` **Bioinformatics specialist** (Clinical
